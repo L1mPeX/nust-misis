@@ -61,7 +61,7 @@
 | ВК-группа студенческого совета ИКН | [Ссылка](https://vk.com/studsovet_ikn)    |
 | ВК-группа центра карьеры           | [Ссылка](https://vk.com/ck_misis)         |
 | ВК-группа Touchstone МИСиС         | [Ссылка](https://vk.com/touchstonevmisis) |
-| ВК-группа ППО обучающихся МИСиС    | [Ссылка](hhttps://vk.com/profkom_misis)   |
+| ВК-группа ППО обучающихся МИСиС    | [Ссылка](https://vk.com/profkom_misis)   |
 | Сайт НТЦ НИТУ МИСиС                | [Ссылка](https://lib.misis.ru/)           |
 
 ---
